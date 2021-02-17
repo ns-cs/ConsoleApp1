@@ -1,7 +1,5 @@
 ﻿using iMORPHr.JellyFishTank.Contract.Interfaces;
-using System;
 using System.Collections.Generic;
-using System.Text;
 
 namespace iMORPHr.JellyFishTank.Contract
 {
