@@ -1,8 +1,5 @@
 ﻿using iMORPHr.JellyFishTank.Contract.Interfaces;
-using System;
-using System.Collections.Generic;
 using System.Runtime.CompilerServices;
-using System.Text;
 [assembly: InternalsVisibleToAttribute("iMORPHr.JellyFishTank.Test")]
 namespace iMORPHr.JellyFishTank.Contract
 {

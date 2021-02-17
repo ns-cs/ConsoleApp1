@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace iMORPHr.JellyFishTank.Contract.Interfaces
+﻿namespace iMORPHr.JellyFishTank.Contract.Interfaces
 {
     internal interface ITransporter
     {

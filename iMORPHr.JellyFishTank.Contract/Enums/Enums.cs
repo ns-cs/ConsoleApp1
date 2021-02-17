@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace iMORPHr.JellyFishTank.Contract
+﻿namespace iMORPHr.JellyFishTank.Contract
 {
     public enum Orientation
     {
